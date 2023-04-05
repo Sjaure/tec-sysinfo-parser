@@ -1,0 +1,8 @@
+<?php
+/**
+ * Plugin Name: TEC Troubleshooting
+ * Description: A plugin that helps troubleshooting TEC plugins
+ * Version: 1.0
+ */
+
+// Register the shortcode that will display the form on a page
